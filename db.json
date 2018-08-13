@@ -1,0 +1,6 @@
+{
+"profiles" :[
+{"name":"arun","age":25},
+{"name" : "akhil", "age":24}
+]
+}
